@@ -1,0 +1,85 @@
+{
+	"ret" : "true",
+	"north" : [
+		{
+			"id": 1,
+			"title": "南山滑雪场",
+			"tip": "华北最大",
+			"price": 97,
+			"imgUrl": "//img1.qunarzz.com/sight/p0/1511/d2/d2aec2dfc5aa771290.water.jpg_690x379_bf06f9e9.jpg"
+		},
+		{
+			"id": 2,
+			"title": "富龙滑雪场",
+			"tip": "温暖无风",
+			"price": 130,
+			"imgUrl": "//img1.qunarzz.com/piao/fusion/1712/6b/dacc31cd16745202.jpg_336x221_bb39743e.jpg"
+		},
+		{
+			"id": 3,
+			"title": "军都山滑雪场",
+			"tip": "离市区近",
+			"price": 115,
+			"imgUrl": "//img1.qunarzz.com/sight/p0/1711/66/661d6a43e3e4dceda3.water.jpg_336x221_dedeca08.jpg"
+		},
+		{
+			"id": 4,
+			"title": "渔阳滑雪场",
+			"tip": "梦幻雪雕",
+			"price": 50,
+			"imgUrl": "//img1.qunarzz.com/piao/fusion/1712/d5/fa8c641041d3d602.jpg_336x221_8794f1c9.jpg"
+		},
+		{
+			"id": 5,
+			"title": "翠云山银河滑雪场",
+			"tip": "星座雪道",
+			"price": 100,
+			"imgUrl": "//img1.qunarzz.com/sight/p0/201311/11/3238ae1c496fecf3c8d65eac.jpg_336x221_e6ae845d.jpg"
+		}
+	],
+	"northEast" : [
+		{
+			"id": 1,
+			"title": "亚布力新体委滑雪场",
+			"tip": "亚洲第一",
+			"price": 199,
+			"imgUrl": "//img1.qunarzz.com/piao/fusion/1712/9d/d317f35f5fd82102.jpg_690x379_13434fd6.jpg"
+		},
+		{
+			"id": 2,
+			"title": "沈阳怪坡国际滑雪场",
+			"tip": "班车接送",
+			"price": 80,
+			"imgUrl": "//img1.qunarzz.com/sight/p0/1511/6b/6b3372e0241c034890.water.jpg_336x221_917dd312.jpg"
+		},
+		{
+			"id": 3,
+			"title": "棋盘山冰雪大世界滑雪场",
+			"tip": "雪质松软",
+			"price": 123,
+			"imgUrl": "//img1.qunarzz.com/piao/fusion/1712/58/5f9904a6bc585002.jpg_336x221_cec775b9.jpg"
+		},
+		{
+			"id": 4,
+			"title": "北大壶滑雪场",
+			"tip": "粉雪天堂",
+			"price": 75,
+			"imgUrl": "//img1.qunarzz.com/piao/fusion/1712/38/3dad433b446f9502.jpg_336x221_3e9e9c83.jpg"
+		},
+		{
+			"id": 5,
+			"title": "万科松花湖滑雪场",
+			"tip": "雪上乐园",
+			"price": 75,
+			"imgUrl": "//img1.qunarzz.com/sight/p0/1512/c1/c1d65d9517e2ea290.water.jpg_336x221_c43afec2.jpg"
+		}
+	]
+}
+
+
+
+
+
+
+
+
